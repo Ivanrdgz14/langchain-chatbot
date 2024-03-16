@@ -9,7 +9,7 @@ Langchain es una poderosa biblioteca diseñada para transformar la interacción 
 Antes de sumergirnos en los cuadernos, es esencial establecer un archivo `config.py` en la carpeta correspondiente y colocar su clave API de OpenAI:
 
 ```python
-||
+OPENAI_API_KEY = 'your_api_key'
 ```
 
 ## Cuadernos y temas clave
